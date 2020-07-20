@@ -63,5 +63,5 @@ Win + S 搜索	Search
 Win + V 剪贴板 (1809版本以上)  
 Win + Shift + S 截屏(可自定义区域)(1809版本以上)  
 /**  
- * 命令 winver 查看Win10版本  
+\* 命令 winver 查看Win10版本  
  */  
