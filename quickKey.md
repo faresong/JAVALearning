@@ -1,13 +1,13 @@
 # 通用快捷键
-Ctrl+X	剪切
-Ctrl+C	复制		Copy
-Ctrl+V	粘贴
+Ctrl+X	剪切  
+Ctrl+C	复制		Copy  
+Ctrl+V	粘贴  
 
-Ctrl+Z	撤销
-Ctrl+Y	重做
+Ctrl+Z	撤销  
+Ctrl+Y	重做  
 
-Tab			缩进
-Shift+Tab	回缩
+Tab			缩进  
+Shift+Tab	回缩  
 
 Backspace	删除前一个字符
 Delete		删除后一个字符
