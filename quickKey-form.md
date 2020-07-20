@@ -39,3 +39,17 @@
 | Win + E          | 资源管理器                       | Explorer   |
 | Win + R          | 运行                             | Run       |
 | Win + D          | 桌面                             | Desktop |
+
+# Windows 10 快捷键
+
+|    快捷键   |   动作    |    按键含义    |
+|:-----------:|:-----------:|:----------:|
+| Win + Q          | 搜索                 |  Query          |
+| Win + S          | 搜索              |  Search |          
+| Win + E          | 资源管理器        | Explorer   |
+| Win + V          | 剪贴板(1809版本以上)        |    |
+| Win+Shift+S          | 截屏(可自定义区域)(1809版本以上)        |    |
+
+/**
+ * 命令 winver 查看Win10版本
+ */
