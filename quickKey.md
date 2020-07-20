@@ -65,3 +65,14 @@ Win + Shift + S 截屏(可自定义区域)(1809版本以上)
 /**  
 \* 命令 winver 查看Win10版本  
  */  
+
+
+
+|    左对齐   |   右对齐    |    居中    |
+|:-----------|-----------:|:----------:|
+|Ctrl + X    |    剪切|  TaoBeier  |
+|Ctrl + X    |    剪切|  TaoBeier  |
+|Ctrl + X    |    剪切|  TaoBeier  |
+|Ctrl + X    |    剪切|  TaoBeier  |
+|Ctrl + X    |    剪切|  TaoBeier  |
+|Ctrl + X    |    剪切|  TaoBeier  |
