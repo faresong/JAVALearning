@@ -70,44 +70,30 @@ Win + Shift + S 截屏(可自定义区域)(1809版本以上)
 
 |    快捷键   |   动作    |    按键含义    |
 |:-----------:|:-----------:|:----------:|
-|Ctrl + X    |    剪切|  TaoBeier  |
-|Ctrl + X    |    剪切|  TaoBeier  |
-|Ctrl + X    |    剪切|  TaoBeier  |
-|Ctrl + X    |    剪切|  TaoBeier  |
-|Ctrl + X    |    剪切|  TaoBeier  |
-|Ctrl + X    |    剪切|  TaoBeier  |
-| Ctrl+X          | 剪切                             |
-| Ctrl+C          | 复制                             |
+| Ctrl+X          | 剪切                 |            |
+| Ctrl+C          | 复制                 | copy           |
 | Ctrl+V          | 粘贴                             |
-|                 |                                    |
 | Ctrl+Z          | 撤销                             |
 | Ctrl+Y          | 重做                             |
-|                 |                                    |
 | Tab             |                                    |
 | Shift+Tab       | 回缩                             |
-|                 |                                    |
 | Backspace       | 删除前一个字符              |
 | Delete          |                                    |
-|                 |                                    |
 | Home            | 光标跳至行首                 |
 | End             |                                    |
 | Ctrl+Home       |                                    |
 | Ctrl+End        |                                    |
-|                 |                                    |
 | Shift+Home      |                                    |
 | Shift+End       |                                    |
 | Ctrl+Shift+Home |                                    |
 | Ctrl+Shift+End  |                                    |
-|                 |                                    |
-| PgUp            | 上一页                          |
-| PgDn            | 下一页                          |
+| PgUp            | 上一页                   |PageUp       |
+| PgDn            | 下一页                   |PageDown       |
 | Ctrl+PgUp       | 跳转至前一个标签页        |
 | Ctrl+PgDn       | 跳转至后一个标签页        |
-|                 |                                    |
-| Ctrl+A          | 全选                             |
-| Ctrl+F          | 搜索                             |
-| Ctrl+S          | 保存                             |
-|                 |                                    |
-| PrtSc           | 截屏                             |
+| Ctrl+A          | 全选                    |All        |
+| Ctrl+F          | 搜索                    |Find         |
+| Ctrl+S          | 保存                    |Save         |
+| PrtSc           | 截屏                    |PrintScreen         |
 | Insert          | 插入模式/覆盖模式转换    |
 | Shift+Insert    | 粘贴 (Ctrl+V 无效的情况下可以尝试) |
