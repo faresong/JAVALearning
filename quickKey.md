@@ -76,9 +76,7 @@ Win + Shift + S 截屏(可自定义区域)(1809版本以上)
 |Ctrl + X    |    剪切|  TaoBeier  |
 |Ctrl + X    |    剪切|  TaoBeier  |
 |Ctrl + X    |    剪切|  TaoBeier  |
-
 | Ctrl+X          | 剪切                             |
-| --------------- | ---------------------------------- |
 | Ctrl+C          | 复制                             |
 | Ctrl+V          | 粘贴                             |
 |                 |                                    |
