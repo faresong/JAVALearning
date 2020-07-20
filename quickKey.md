@@ -75,18 +75,18 @@ Win + Shift + S 截屏(可自定义区域)(1809版本以上)
 | Ctrl+V          | 粘贴                             |
 | Ctrl+Z          | 撤销                             |
 | Ctrl+Y          | 重做                             |
-| Tab             |                                    |
+| Tab             | 缩进                                  |
 | Shift+Tab       | 回缩                             |
 | Backspace       | 删除前一个字符              |
-| Delete          |                                    |
+| Delete          | 删除后一个字符                                  |
 | Home            | 光标跳至行首                 |
-| End             |                                    |
-| Ctrl+Home       |                                    |
-| Ctrl+End        |                                    |
-| Shift+Home      |                                    |
-| Shift+End       |                                    |
-| Ctrl+Shift+Home |                                    |
-| Ctrl+Shift+End  |                                    |
+| End             | 光标跳至行尾                                |
+| Ctrl+Home       | 光标跳至文首                                   |
+| Ctrl+End        | 光标跳至文尾                                   |
+| Shift+Home      | 选中光标行前的内容                                   |
+| Shift+End       | 选中光标行后的内容                                   |
+| Ctrl+Shift+Home | 选中光标文前的内容                                   |
+| Ctrl+Shift+End  | 选中光标文后的内容                                   |
 | PgUp            | 上一页                   |PageUp       |
 | PgDn            | 下一页                   |PageDown       |
 | Ctrl+PgUp       | 跳转至前一个标签页        |
