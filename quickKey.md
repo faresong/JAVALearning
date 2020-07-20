@@ -1,7 +1,7 @@
 # 通用快捷键
-Ctrl+X  剪切  
-Ctrl+C  复制		Copy  
-Ctrl+V	粘贴  
+Ctrl+X        剪切  
+Ctrl+C        复制		Copy  
+Ctrl+V	      粘贴  
 
 Ctrl+Z	撤销  
 Ctrl+Y	重做  
