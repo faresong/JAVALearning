@@ -1,5 +1,5 @@
 # 通用快捷键
-Ctrl + X 剪切  
+**Ctrl + X** 剪切  
 Ctrl + C 复制		Copy  
 Ctrl + V 粘贴  
 
