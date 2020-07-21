@@ -56,7 +56,6 @@ Win + -			缩放
 
 
 ## Windows 10 快捷键  
-Win + Q 搜索	Query  
 Win + S 搜索	Search  
 
 Win + V 剪贴板 (1809版本以上)  
