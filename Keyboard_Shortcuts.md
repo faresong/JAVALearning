@@ -57,7 +57,6 @@ Win + -			缩放
 
 ## Windows 10 快捷键  
 Win + S 搜索	Search  
-
 Win + V 剪贴板 (1809版本以上)  
 Win + Shift + S 截屏(可自定义区域)(1809版本以上)  
 /**  
