@@ -35,12 +35,13 @@ PrtSc	截屏
 Insert	插入模式/覆盖模式转换  
 Shift + Insert	粘贴 (Ctrl + V 无效的情况下可以尝试)  
 
-[//]: # (
-# Eclipse 快捷键  
-Ctrl + D	删除一行	Delete  
-Shift + Alt + S	
-)
 
+
+
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
 
 
 
