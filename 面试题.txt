@@ -3,6 +3,6 @@ PreparedStatement 相比 Statement
 2. 可以使用占位符 "?"
 3. 提高速度
 
-new 对象执行顺序
+new 对象的初始化顺序
 静态代码块 --> 动态代码块 --> 构造方法
 
