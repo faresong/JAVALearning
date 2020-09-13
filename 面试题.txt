@@ -6,3 +6,16 @@ PreparedStatement 相比 Statement
 new 对象的初始化顺序
 静态代码块 --> 动态代码块 --> 构造方法
 
+JDBC API 中 DriverManager, Connection, PreparedStatement, ResultSet 分别有什么作用？
+DriverManager: 驱动管理器对象 注册驱动的
+Connection: 连接数据库的对象
+  prepareStatement(String sql);
+PreparedStatement: 操作sql的对象
+  setString(1, "")
+  executeQuery();
+  executeUpdate();
+ResultSet: 执行sql语句以后返回的结果集对象
+  next();
+  getString("");
+
+
