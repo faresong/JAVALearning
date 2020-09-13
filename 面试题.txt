@@ -37,10 +37,13 @@ destory() servlet 被销毁时调用
 application > session > request
 都可以用来存储数据，传递参数
 application  getServletContext();  整个项目 全局作用 有且只有一个
-session  request.getHttpSession();  一次会话，浏览器访问Servlet就建立会话，失效时间默认30分钟
+session  request.getHttpSession();  一次会话，浏览器访问 Servlet 就建立会话，失效时间默认30分钟
 request  request.setAttribute();  一次请求，一次响应
 
-##### 
+##### cookie 和 session 分别是什么？
+cookie 是把数据保存在浏览器上面
+session 是把数据保存在服务器上面
+        session 是依赖于 cookie 的，没有 cookie 就没有 session
 
 
 
