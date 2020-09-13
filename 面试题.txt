@@ -28,4 +28,19 @@ temp 临时文件
 backup  
 work  
 
+##### 概述 servlet 生命周期
+init() 当第一次访问servlet时调用，且只调用一次，所以它只初始化一次，是初始化的方法
+service() 每次访问都会调用一次，并且创建两个对象，分别为 request, response
+destory() servlet 被销毁时调用
+
+##### 三大域对象
+application > session > request
+都可以用来存储数据，传递参数
+application  getServletContext();  整个项目 全局作用 有且只有一个
+session  request.getHttpSession();  一次会话，浏览器访问Servlet就建立会话，失效时间默认30分钟
+request  request.setAttribute();  一次请求，一次响应
+
+##### 
+
+
 
