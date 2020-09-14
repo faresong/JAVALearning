@@ -45,5 +45,28 @@ cookie 是把数据保存在浏览器上面
 session 是把数据保存在服务器上面
         session 是依赖于 cookie 的，没有 cookie 就没有 session
 
+##### 过滤器
+拦截请求与响应  dochain() 放行方法  配置拦截规则
+
+##### 路径
+
+##### WEB-INF 下面的资源不可直接通过浏览器访问
+
+##### Tomcat webapps 目录 对应 Eclipse 的 WebContent 目录
+
+##### Maven
+  pom 坐标
+  管理 jar 包及其依赖  本地仓库 私服 远程仓库
+  
+##### Git
+init
+add
+commit -m
+remote
+push
+clone
+
+##### 如何接收页面的参数 (SpringMVC 和 Spring Boot)
+##### 如何响应页面的参数 (SpringMVC 和 Spring Boot)
 
 
