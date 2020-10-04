@@ -1,0 +1,24 @@
+4.5通知类型
+前置通知	：在目标方法执行之前执行.
+  aop:before
+后置通知	：在目标方法执行之后执行
+  aop:after-returning
+环绕通知	：在目标方法执行前和执行后执行
+  aop:around
+异常抛出通知：在目标方法执行出现 异常的时候 执行
+  aop:after-throwing
+  日志记录在文本文档
+最终通知	：无论目标方法是否出现异常 最终通知都会 执行.
+  aop:after
+  
+  
+1.6AspectJ的AOP的注解:
+@Aspect:定义切面类的注解
+
+通知类型:
+    * @Before				:前置通知
+    * @AfterReturing		:后置通知
+    * @Around			:环绕通知
+    * @After				:最终通知
+    * @AfterThrowing		:异常抛出通知.
+		* @Pointcut           :定义切入点的注解
