@@ -1,0 +1,8 @@
+xsi:schemaLocation="{namespace} {location}"
+eclipse 会自动下载 {namespace} 对应的 {location} (URI)所在的文件, 该文件有 {namespace} 的标签定义, 因此 eclipse 可以根据该文件产生 {namespace} 对应的标签提示
+
+误点：
+1.错误设置代理导致未正常下载 {location} 文件
+eclipse 的 network connection 支持3种代理: http https socks
+之前由于Win平台的Shadowsocks*系集成了Privoxy, 并实现了端口复用，所以三者都可以使用同一端口;
+当前使用的 Qv2ray 将 http/https 与 socks 端口分离, 因此默认端口情况下 eclipse 的 http https 端口应设置为 8889, socks 应设置为 1089
