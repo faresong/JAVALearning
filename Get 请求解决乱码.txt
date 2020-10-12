@@ -1,0 +1,2 @@
+标题: Get 请求解决乱码.txt
+String userName = new String(request.getParamter("userName").getBytes("ISO-8859-1"), "UTF-8");
