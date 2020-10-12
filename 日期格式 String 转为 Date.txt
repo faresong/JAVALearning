@@ -1,0 +1,7 @@
+标题: 日期格式 String 转为 Date.txt
+SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:ss:mm");
+try {
+	Date data = format.parse(source);
+} catch (ParseException e) {
+	e.printStackTrace();
+}
