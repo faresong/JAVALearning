@@ -1,0 +1,7 @@
+标题：如何正确复制一个 Maven Web 项目.txt
+例子：project1 复制为 project2
+1.复制 project1, 粘贴时重命名为 project2
+2.右键 project2 --> Properties(属性) --> Web Project Settings, 修改「Context root 」内容为 project2
+3.pom.xml 中 <artifactId> 标签的内容修改为 project2
+4.${workspace目录}/project2/.settings/org.eclipse.wst.common.component 文件中的 <wb-module deploy-name="project1"> 修改为 project2 的
+5.右键 project2 --> Refresh(刷新).
