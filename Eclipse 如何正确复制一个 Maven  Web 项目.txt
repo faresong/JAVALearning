@@ -5,3 +5,5 @@
 3.pom.xml 中 <artifactId> 标签的内容修改为 project2
 4.${workspace目录}/project2/.settings/org.eclipse.wst.common.component 文件中的 <wb-module deploy-name="project1"> 修改为 project2 的
 5.右键 project2 --> Refresh(刷新).
+
+若遇到 Tomcat 启动报错，可尝试对 Tomcat Server 进行 Clean... 操作.
