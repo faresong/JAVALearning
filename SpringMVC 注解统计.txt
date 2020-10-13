@@ -1,0 +1,12 @@
+标题: SpringMVC 注解统计.txt
+@RequestMapping 类 方法
+@RequestParam 形参 替换参数的命名
+@ResponseBody
+@RequestBody 方法
+@SessionAttributes 类
+@CookieValue 形参
+@DateTimeFormat 形参 属性
+@InitBinder 自定义类中的方法initBinder(WebDataBinder)，继承该类来调用
+
+DateFormatUtil implements org.springframework.core.convert.converter.Converter<String, Date>, 在 web.xml配置后 全局使用
+
